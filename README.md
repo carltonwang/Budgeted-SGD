@@ -1,1 +1,1 @@
-# Budgeted-SGD
+# BUDGETED-SGD
